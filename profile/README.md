@@ -40,7 +40,7 @@ Container implementation lives upstream at
 ## Team
 
 - Nicolina Chrysaphi
-- Laura Hayes
+- Laura A. Hayes
 - Antonio Vecchio
 - Nabil Freij
 - Will Barnes
