@@ -36,3 +36,29 @@ Container implementation lives upstream at
 - Dr Nicolina Chrysaphi (INAF-IAPS, Rome)
 - Dr Laura A. Hayes (Dublin Institute for Advanced Studies)
 - Dr Antonio Vecchio (Radboud University)
+
+## Team
+
+- Nicolina Chrysaphi
+- Laura Hayes
+- Antonio Vecchio
+- Nabil Freij
+- Will Barnes
+- Daniel Ryan
+- Hamish Reid
+- Shane Maloney
+- Samuel Badman
+- Sijie Yu
+- Sophie Musset
+- Kamen Kozarev
+- Mohamed Nedal
+- Xavier Bonnin
+- Marc Pulupa
+- Katerina Pesini
+- Pietro Zucca
+- Henrik Eklund
+- Catherine Cuddy
+- Shilpi Bhunia
+- Alexis Jeandet
+- Lucas Grosset
+- Herman Le Roux
